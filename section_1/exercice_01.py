@@ -70,3 +70,8 @@ print("     *     *     "*2)
 print("     *     *     "*2)
 print("     *     *     "*2)
 print("     *******     "*2)
+
+#rectangle draw
+print("+" + 10 * "-" + "+")
+print(("|" + " " * 10 + "|\n") * 5, end="")
+print("+" + 10 * "-" + "+")
